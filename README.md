@@ -11,20 +11,12 @@ https://github.com/digdat0/P3I1-FW-Toolv2
 
 Currently uploaded firmware:
 
-Height + NFZ Removal: work in progress
--  P3 Std: 1.09.0200
--  P3 Adv: 1.10.0090, 1.11.0020
--  P3 Pro: 
--  Inspire 1: 1.10.01.40, 1.11.01.50
--  Inspire 1 FC550: 1.11.01.50
-
-
-Height + NFZ Removal+Speed: not yet done
--  P3 Std: 
--  P3 Adv: 
--  P3 Pro: 
--  Inspire 1: 
--  Inspire 1 FC550: 
+Height + NFZ Removal Available Versions: 
+-  P3 Std (p3c): 1.09.0200
+-  P3 Adv (p3s): 1.10.0090, 1.11.0020
+-  P3 Pro (p3x):  1.10.0090, 1.11.0020
+-  Inspire 1 (wm610): 1.10.01.40, 1.11.01.50
+-  Inspire 1 Pro (WM610_C350, WM610_C550): 1.11.01.50
 
 
 
