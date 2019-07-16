@@ -6,7 +6,9 @@ https://github.com/o-gs/dji-firmware-tools
 
 More information on Phantom 3 and Inspire 1 modding can be found in our wiki: http://dji.retroroms.info/howto/modp3params
 
-Easy to use tool to execute the firmware tools can be found at https://github.com/digdat0/P3I1-FW-Toolv2
+Easy to use tool to execute the firmware tools can be found at 
+https://github.com/digdat0/P3_i1_EasyMod
+https://github.com/digdat0/P3I1-FW-Toolv2
 
  ---- Usage of these files ----
 
