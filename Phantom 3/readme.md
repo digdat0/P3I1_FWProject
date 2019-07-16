@@ -1,7 +1,7 @@
-P3 Std (p3c)
+P3 Standard (p3c)
 
 
-P3 Adv (p3s)
+P3 Advanced (p3s)
 
 
-P3 Pro (p3x)
+P3 Professional (p3x)
