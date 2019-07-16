@@ -1,5 +1,7 @@
 # P3I1_FWProject
 
+Donations are welcomed via paypal to flyflydrones@gmail.com
+
 The intention of this repo is to document and share customized firmware files for the DJI Phantom 3 series and the Inspire 1 series aircraft. The customized firmware files will provide modifications to the flight controller module which will enable greater speed, removed height restrictions, removed flight zone restrictions as well as removed battery limits. The tools used to open and extract firmware were created by mefistotelis and other OG's in the DJI reverse engineering community. Credit and props to those guys for paving the way. Original tools found here: 
 https://github.com/o-gs/dji-firmware-tools
 
@@ -18,6 +20,7 @@ Height + NFZ Removal Available Versions:
 -  Inspire 1 (wm610): 1.10.01.40, 1.11.01.50
 -  Inspire 1 Pro (WM610_C350, WM610_C550): 1.11.01.50
 
+Donations are welcomed via paypal to flyflydrones@gmail.com
 
 
  ---- Usage of these files ----
