@@ -1,7 +1,7 @@
 P3 Standard (p3c)
 
 
-P3 4k (p34k)
+P3 4k (P3XW)
 
 
 P3 SE (p3se)
