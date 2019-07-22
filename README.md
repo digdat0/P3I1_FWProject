@@ -12,6 +12,8 @@ Currently uploaded firmware:
 
 Height + NFZ Removal Available Versions: 
 -  P3 Std (p3c): 1.09.0200
+-  P3 4k (P3XW): 1.06.0050
+-  P3 SE (p3se): 1.05.0040
 -  P3 Adv (p3s): 1.10.0090, 1.11.0020
 -  P3 Pro (p3x):  1.10.0090, 1.11.0020
 -  Inspire 1 (wm610): 1.10.01.40, 1.11.01.50
@@ -20,6 +22,8 @@ Height + NFZ Removal Available Versions:
 
 Height + NFZ Removal + Faster Speed Available Versions: 
 -  P3 Std (p3c): 1.09.0200
+-  P3 4k (P3XW): 1.06.0050
+-  P3 SE (p3se): 1.05.0040
 -  P3 Adv (p3s): 1.10.0090, 1.11.0020
 -  P3 Pro (p3x):  1.10.0090, 1.11.0020
 -  Inspire 1 (wm610): 1.10.01.40, 1.11.01.50
