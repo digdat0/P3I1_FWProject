@@ -3392,7 +3392,7 @@
 		"attribute" : 11,
 		"minValue" : 10,
 		"maxValue" : 60,
-		"defaultValue" : 23,
+		"defaultValue" : 50,
 		"name" : "g_config.control.horiz_vel_atti_range_0",
 		"modify" : true
 	},
@@ -3414,7 +3414,7 @@
 		"attribute" : 11,
 		"minValue" : 10,
 		"maxValue" : 60,
-		"defaultValue" : 35,
+		"defaultValue" : 45,
 		"name" : "g_config.control.atti_limit_0",
 		"modify" : true
 	},
@@ -3425,7 +3425,7 @@
 		"attribute" : 11,
 		"minValue" : 10,
 		"maxValue" : 60,
-		"defaultValue" : 35,
+		"defaultValue" : 50,
 		"name" : "g_config.control.atti_range_0",
 		"modify" : true
 	},
@@ -3491,7 +3491,7 @@
 		"attribute" : 11,
 		"minValue" : 1,
 		"maxValue" : 10,
-		"defaultValue" : 5,
+		"defaultValue" : 9,
 		"name" : "g_config.control.vert_up_vel_0",
 		"modify" : true
 	},
@@ -3502,7 +3502,7 @@
 		"attribute" : 11,
 		"minValue" : 1,
 		"maxValue" : 10,
-		"defaultValue" : 4,
+		"defaultValue" : 8,
 		"name" : "g_config.control.vert_down_vel_0",
 		"modify" : true
 	},
