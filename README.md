@@ -41,7 +41,9 @@ Detailed steps:
 
 1. Download the proper file for your aircraft and firmware version. Choose wisely. 
  - The file you are downloading is the 306.bin file, like P3X_FW_V01.11.0020_m0306.bin_MODDED
-2. Rename the downloaded file. p3 = PMCAPPFw3.bin I1 = INMCAPPFw1.bin
+2. Rename the downloaded file. 
+ - Phantom 3 = PMCAPPFw3.bin 
+ - Inspire 1 = INMCAPPFw1.bin
 3. Copy the file to your SD card. Put SD card into the aircraft. 
 4. Power on the aircraft. Update will start in about 30 seconds. You will hear a distinct noise during the update process, which will change when done. It should take 3-5 minutes.
 
