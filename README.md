@@ -40,8 +40,6 @@ Height + NFZ Removal + Faster Speed +Battery Limits Removed Available Versions:
 -  Inspire 1 Pro (WM610_FC550): 1.11.01.50
 -  Inspire 1 Pro RAW (WM610_FC550R): 1.11.01.50
 
-Donations are welcomed via paypal to flyflydrones@gmail.com
-
 
  ---- Usage of these files ----
  
