@@ -1,6 +1,12 @@
 # P3I1_FWProject
 
-The intention of this repo is to document and share customized firmware files for the DJI Phantom 3 series and the Inspire 1 series aircraft. The customized firmware files will provide modifications to the flight controller module which will enable greater speed, removed height restrictions, removed flight zone restrictions as well as removed battery limits. The tools used to open and extract firmware were created by mefistotelis and other OG's in the DJI reverse engineering community. Credit and props to those guys for paving the way. Original tools found here: https://github.com/o-gs/dji-firmware-tools
+These firmware files were created using tools other developrs made. My intention is to make this easier; All credit to mefistotelis for his work. Please review his repo here and please give all credit and or donations to mefistotelis
+
+https://github.com/o-gs/dji-firmware-tools
+
+--------------------------------------------------------
+
+The intention of this repo is to document and share customized firmware files for the DJI Phantom 3 series and the Inspire 1 series aircraft. The customized firmware files will provide modifications to the flight controller module which will enable greater speed, removed height restrictions, removed flight zone restrictions as well as removed battery limits. 
 
 More information on Phantom 3 and Inspire 1 modding can be found in our wiki: http://dji.retroroms.info/howto/modp3params
 
