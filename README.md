@@ -6,6 +6,13 @@ https://github.com/o-gs/dji-firmware-tools
 
 --------------------------------------------------------
 
+INSPIRE 1 PILOTS PLEASE READ!!!!
+I have had some reports on the x5 and x5r camera that the modded firmware doesnt work and after flashing the gimbal is going dead. I do not understand why this is. For the time being, I DO NOT RECOMMEND X5/X5R users using this firmware. Github does not allow me to delete, this is a warning and advisory to Inspire 1 pilots.
+
+
+--------------------------------------------------------
+
+
 The intention of this repo is to document and share customized firmware files for the DJI Phantom 3 series and the Inspire 1 series aircraft. The customized firmware files will provide modifications to the flight controller module which will enable greater speed, removed height restrictions, removed flight zone restrictions as well as removed battery limits. 
 
 More information on Phantom 3 and Inspire 1 modding can be found in our wiki: http://dji.retroroms.info/howto/modp3params
